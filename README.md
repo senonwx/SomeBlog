@@ -8,5 +8,5 @@
 # 混淆
 <a href="https://www.jianshu.com/p/5255cf853fad">Android打包那些事</a></br>
 <a href="https://blog.csdn.net/ljd2038/article/details/51308768">ProGuard详解</a></br>
-<a href="https://www.imooc.com/learn/879">Android代码混淆与加固技术</a>
+视频 <a href="https://www.imooc.com/learn/879">Android代码混淆与加固技术</a>
  
