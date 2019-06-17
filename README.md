@@ -3,7 +3,7 @@
 
 
 # 免费三方
-<a href="https://www.mob.com/">免费  mob短信验证功能</a></br>
+免费 <a href="https://www.mob.com/">mob短信验证功能</a></br>
 
 # 夜间模式
 <a href="https://blog.csdn.net/rongbinjava/article/details/51841141">android夜间模式设置</a></br>
