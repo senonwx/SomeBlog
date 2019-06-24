@@ -14,4 +14,7 @@
 <a href="https://blog.csdn.net/ljd2038/article/details/51308768">ProGuard详解</a></br>
 视频 <a href="https://www.imooc.com/learn/879">Android代码混淆与加固技术</a>
  
-
+ 
+在android开发的时候,有时候会遇到这样的问题
+Error:Execution failed for task ':test:processDebugManifest'.> Manifest merger failed with multiple errors, see logs
+解决：首先进入命令行,输入命令gradlew processDebugManifest --stacktrace
