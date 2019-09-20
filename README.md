@@ -21,3 +21,4 @@ Error:Execution failed for task ':test:processDebugManifest'.> Manifest merger f
 
 ### 图片/视频/音频选择器（带压缩/剪裁）
 <a href="https://github.com/LuckSiege/PictureSelector">多图片选择器</a></br>
+<a href="https://github.com/Curzibn/Luban">图片压缩库:鲁班</a></br>
