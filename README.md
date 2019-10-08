@@ -1,6 +1,8 @@
 # SomeBlog
 保存一些比较好的博客，包括csdn、简书、github等等，供学习。。。
 
+### 安卓版本适配
+图标适配 <a href="https://blog.csdn.net/guolin_blog/article/details/79417483">8.0系统中应用图标的适配</a></br>
 
 ### 免费三方
 免费 <a href="https://www.mob.com/">mob短信验证功能</a></br>
