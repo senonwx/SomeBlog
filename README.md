@@ -2,7 +2,8 @@
 保存一些比较好的博客，包括csdn、简书、github等等，供学习。。。
 
 ### 安卓版本适配
-图标适配 <a href="https://blog.csdn.net/guolin_blog/article/details/79417483">8.0系统中应用图标的适配</a></br>
+[推荐] 图标适配 <a href="https://blog.csdn.net/guolin_blog/article/details/79417483">8.0系统中应用图标的适配</a></br>
+[强制] 通知栏适配 <a href="https://blog.csdn.net/guolin_blog/article/details/79854070">8.0系统中通知栏的适配</a></br>
 
 ### 免费三方
 免费 <a href="https://www.mob.com/">mob短信验证功能</a></br>
@@ -15,7 +16,6 @@
 <a href="https://www.jianshu.com/p/5255cf853fad">Android打包那些事</a></br>
 <a href="https://blog.csdn.net/ljd2038/article/details/51308768">ProGuard详解</a></br>
 视频 <a href="https://www.imooc.com/learn/879">Android代码混淆与加固技术</a>
- 
  
 ### 在android开发的时候,有时候会遇到这样的问题
 Error:Execution failed for task ':test:processDebugManifest'.> Manifest merger failed with multiple errors, see logs
