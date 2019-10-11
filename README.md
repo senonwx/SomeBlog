@@ -4,6 +4,7 @@
 ### 安卓版本适配
 
 [推荐] 图标适配 <a href="https://blog.csdn.net/guolin_blog/article/details/79417483">8.0系统中应用图标的适配</a></br>
+[强制] 网络证书配置 <a href="https://blog.csdn.net/u011045726/article/details/76098774">8.0系统中网络证书配置</a></br>
 [强制] 通知栏适配 <a href="https://blog.csdn.net/guolin_blog/article/details/79854070">8.0系统中通知栏的适配</a></br>
 [强制] 文件共享FileProvider适配 <a href="https://blog.csdn.net/lmj623565791/article/details/72859156">7.0系统中文件共享FileProvider的适配</a></br>
 
